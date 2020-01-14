@@ -1,0 +1,11 @@
+{
+    "baseUrl": "https://www.ze.delivery/",
+    "execTimeout": 60000,
+    "defaultCommandTimeout": 40000,
+    "taskTimeout": 60000,
+    "pageLoadTimeout": 60000,
+    "requestTimeout": 50000,
+    "responseTimeout": 50000,
+    "viewportWidth": 1026,
+    "viewportHeight": 653
+}
