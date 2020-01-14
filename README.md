@@ -25,3 +25,6 @@ UI Automation Test on Ze Delivery web application using the framework Cypress
 5. Clique em "Run all specs" para executar os testes
 
 6. Foi feito uma suíte de teste bem simples para procurar produtos e adicionar ao carrinho
+
+
+Foi utilizado o framework Cypress pois é um framework onde é possível criar testes end-to-end, testes de unidade e integração. Além disso, ele funciona em qualquer estrutura Javascript, como React, Angular, Vue e etc.
