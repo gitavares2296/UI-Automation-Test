@@ -23,3 +23,5 @@ UI Automation Test on Ze Delivery web application using the framework Cypress
     E aguarde o executor de testes do Cypress abrir
     
 5. Clique em "Run all specs" para executar os testes
+
+6. Foi feito uma suíte de teste bem simples para procurar produtos e adicionar ao carrinho
