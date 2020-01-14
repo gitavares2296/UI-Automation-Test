@@ -1,0 +1,24 @@
+{
+  "name": "ze-code-challenge",
+  "version": "1.0.0",
+  "description": "\u0016A web test automation on Ze Delivery Application",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "cypress": "^3.8.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gitavares2296/UI-Automation-Test.git"
+  },
+  "author": "Giovana Tavares",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gitavares2296/UI-Automation-Test/issues"
+  },
+  "homepage": "https://github.com/gitavares2296/UI-Automation-Test#readme"
+}
